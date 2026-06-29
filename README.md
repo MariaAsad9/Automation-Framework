@@ -19,15 +19,6 @@ The objective of this project was to build a scalable automation framework capab
 
 ---
 
-## Application Under Test
-
-**Website:** Swag Labs
-**URL:** https://www.saucedemo.com/
-
-Swag Labs is a demo e-commerce application used for automation testing and covers common business workflows such as authentication, product management, cart operations, and checkout.
-
----
-
 ## Project Structure
 
 ```text
