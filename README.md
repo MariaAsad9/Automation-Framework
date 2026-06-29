@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project implements a robust and maintainable Selenium WebDriver automation framework in C# for the Swag Labs e-commerce application. The framework was developed following industry best practices, including the Page Object Model (POM), data-driven testing, reusable utility methods, and automated reporting using Extent Reports.
+This project implements a robust and maintainable Selenium WebDriver automation framework in C# for the e-commerce application. The framework was developed following industry best practices, including the Page Object Model (POM), data-driven testing, reusable utility methods, and automated reporting using Extent Reports.
 
 The objective of this project was to build a scalable automation framework capable of executing functional and regression test scenarios while maintaining clean, modular, and reusable code.
 
