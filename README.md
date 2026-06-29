@@ -171,7 +171,7 @@ The framework contains more than 20 automated test scenarios covering the follow
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/SwagLabsAutomation.git
+git clone https://github.com/MariaAsad9/Automation-Framework.git
 ```
 
 Open the solution:
